@@ -2,7 +2,7 @@
  
 # Olá, seja bem vindo!! 
 <br>
-<img alt="GIF"src="https://github.com/cmarih/cmarih/blob/master/img/programmer.gif?raw=true"/>
+<img alt="GIF"src="https://github.com/SamanthaLuchmann/SamanthaLuchmann/blob/master/img/img_sa.jpg"/>
 </div>
 <br><br>
  
@@ -32,7 +32,7 @@
  
 ## Chega mais!!!
  
-<a href="https://www.linkedin.com/in/marilene-costa/"><img alt="linkedin"title="linkedin"width="30"height="30"src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a><a href="https://www.instagram.com/cmarihc/"><imgalt="instagram"title="instagram"width="30"height="30"src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+<a href="https://www.linkedin.com/in/samantha-luchmann-538586168/"><img alt="linkedin"title="linkedin"width="30"height="30"src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a><a href="https://www.instagram.com/samanthaluchmann/"><img alt="instagram"title="instagram"width="30"height="30"src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
  
 </div>
 
